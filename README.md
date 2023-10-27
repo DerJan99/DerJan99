@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on anything that helps me to push my skills<br>🌱 I’m currently learning Web-Development, primarily in the Frontend<br>💬 Ask me about anything I can help you with<br>⚡ Fun fact: I'm lazy as hell and like memes
+🔭 I’m currently working on anything that helps me to push my skills<br>✨ Building UI-Libraries with Angular and StencilJS<br>👨🏽‍💻 Large Knowlegde in Angular, StencilJS, NX and Storybook<br>⚡ Fun fact: Communication is the key for a team
 
 
 # 💻 Tech Stack:
